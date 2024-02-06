@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#root{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color:hsla(0,100%,50%,1);
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: 100% auto;
+    background-color: #ffffff;
+}
+
+.App {
+    width: 800px;
+    
+}
+
+.app {
+    width: 80%;
+}
